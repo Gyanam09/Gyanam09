@@ -19,13 +19,12 @@ Machine learning pipeline to detect Parkinson’s disease from multimodal biomed
 
 ---
 
-### [Sentiment Analysis Model]([#](https://github.com/Gyanam09/Sentiment-Analysis-Model))  
+### [Sentiment Analysis Model](https://github.com/Gyanam09/Sentiment-Analysis-Model)  
 NLP-based sentiment analysis system for classifying text (positive, negative, neutral).  
 - Tokenization & embeddings (Word2Vec, BERT, etc.)  
 - Models: LSTM / Transformer-based approaches  
 - Performance analysis with F1-score & confusion matrix  
 
-*(Replace `#` with your repository link)*  
 
 ---
 
