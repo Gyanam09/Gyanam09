@@ -1,88 +1,47 @@
+# Hi, I’m Gyanam Jain 👋  
 
-<h1 align="center">Hi 👋, I'm Gyanam Jain</h1>
-<h3 align="center">💻 Aspiring Software Developer | 🚀 AI/ML Enthusiast | 🌐 Web Developer</h3>
+## About Me  
+I am an AI/ML enthusiast and software developer, passionate about creating intelligent systems that solve real-world problems.  
 
----
-
-## 👨‍💻 About Me
-- 🎓 4th Year Computer Science student at **VIT Bhopal**  
-- 🔬 Passionate about **AI, Machine Learning, and Full-Stack Development**  
-- ☁️ Exploring **AWS and scalable cloud architectures**  
-- 🤝 Open to collaborating on impactful software projects  
-- 📫 Reach me at **gyanamjain@gmail.com**
+- 🎯 Strong foundation in machine learning and data science  
+- 🧠 Experienced in end-to-end model development and deployment  
+- 📈 Always exploring new algorithms and optimization techniques  
 
 ---
 
-## 🛠️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-</p>
+## 🔍 Highlight Projects  
+
+### [Parkinson’s Disease Detection Model](https://github.com/Gyanam09/multimodal-parkinson-s-disease-analysis-portal)  
+Machine learning pipeline to detect Parkinson’s disease from multimodal biomedical data.  
+- Preprocessing & feature engineering  
+- Model training (CNNs, RNNs, or SVMs)  
+- Evaluation with accuracy, precision, recall, and AUC  
 
 ---
 
-## 🚀 Highlight Projects
-<p align="center">
-  <a href="https://github.com/Gyanam09/SQL_Gyanam">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=SQL_Gyanam&theme=radical" />
-  </a>
-  <a href="https://github.com/Gyanam09/react-nickify">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=react-nickify&theme=radical" />
-  </a>
-  <a href="https://github.com/Gyanam09/Resume">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=Resume&theme=radical" />
-  </a>
-</p>
+### [Sentiment Analysis Model]([#](https://github.com/Gyanam09/Sentiment-Analysis-Model))  
+NLP-based sentiment analysis system for classifying text (positive, negative, neutral).  
+- Tokenization & embeddings (Word2Vec, BERT, etc.)  
+- Models: LSTM / Transformer-based approaches  
+- Performance analysis with F1-score & confusion matrix  
+
+*(Replace `#` with your repository link)*  
 
 ---
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gyanam09&show_icons=true&theme=radical" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanam09&layout=compact&theme=radical" alt="langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gyanam09&theme=radical" alt="streak" />
-</p>
+### [Trop8](https://github.com/Gyanam09/Trop8)  
+Python-based project focused on [add a one-line description].  
+- Core features and modules  
+- Example use cases and demo  
 
 ---
 
-## 🐍 Contribution Snake
-<p align="center">
-  <img src="https://github.com/Gyanam09/Gyanam09/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
+## Skills & Tools  
+Python · TensorFlow · PyTorch · scikit-learn · pandas · NumPy · Jupyter · Git · Docker · REST APIs  
 
 ---
 
-## ⏳ Weekly Coding Stats (via WakaTime)
-<!-- Link to your WakaTime account before this works -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Gyanam09&theme=radical" />
-</p>
-
----
-
-## 📫 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/gyanam-jain-49a387250/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/Gyanam09">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="mailto:gyanamjain@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gyanam09&color=blue" alt="profile views"/>
-</p>
+## 📫 Contact  
+- Email: gyanamjain@gmail.com  
+- LinkedIn: [linkedin.com/in/gyanam-jain-49a387250](https://www.linkedin.com/in/gyanam-jain-49a387250)  
+- GitHub: [github.com/Gyanam09](https://github.com/Gyanam09)  
