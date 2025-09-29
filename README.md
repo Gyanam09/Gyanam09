@@ -1,46 +1,56 @@
-# Hi, I’m Gyanam Jain 👋  
+<!-- ════════════════════════════════════════════ -->
+<!-- Profile README for Gyanam09 — DEV MODE ON -->
+<!-- ════════════════════════════════════════════ -->
 
-## About Me  
-I am an AI/ML enthusiast and software developer, passionate about creating intelligent systems that solve real-world problems.  
-
-- 🎯 Strong foundation in machine learning and data science  
-- 🧠 Experienced in end-to-end model development and deployment  
-- 📈 Always exploring new algorithms and optimization techniques  
+<h1 align="center">⚡ Gyanam Jain ⚡</h1>
+<p align="center"><i>AI / ML Enthusiast • Software Developer • Problem Solver</i></p>
 
 ---
 
-## 🔍 Highlight Projects  
+## 🛠️ About Me  
 
-### [Parkinson’s Disease Detection Model](https://github.com/Gyanam09/multimodal-parkinson-s-disease-analysis-portal)  
-Machine learning pipeline to detect Parkinson’s disease from multimodal biomedical data.  
-- Preprocessing & feature engineering  
-- Model training (CNNs, RNNs, or SVMs)  
-- Evaluation with accuracy, precision, recall, and AUC  
+- 🎯 Strong foundation in Machine Learning & Data Science  
+- 🧠 Experienced in end-to-end model building, from preprocessing to deployment  
+- ⚡ Passionate about AI solutions for **healthcare, NLP, and applied research**  
 
 ---
 
-### [Sentiment Analysis Model](https://github.com/Gyanam09/Sentiment-Analysis-Model)  
-NLP-based sentiment analysis system for classifying text (positive, negative, neutral).  
-- Tokenization & embeddings (Word2Vec, BERT, etc.)  
-- Models: LSTM / Transformer-based approaches  
-- Performance analysis with F1-score & confusion matrix  
+## 🔥 Featured Projects  
 
+### 🧬 [Parkinson’s Disease Detection Model](https://github.com/Gyanam09/multimodal-parkinson-s-disease-analysis-portal)  
+Detecting Parkinson’s disease using multimodal biomedical data.  
+- Feature engineering & preprocessing  
+- Deep learning models (CNN, RNN) + classical ML (SVM, RF)  
+- Performance: Accuracy, ROC-AUC, Precision/Recall  
 
----
-
-### [Trop8](https://github.com/Gyanam09/Trop8)  
-Python-based project focused on [add a one-line description].  
-- Core features and modules  
-- Example use cases and demo  
+![Stars](https://img.shields.io/github/stars/Gyanam09/multimodal-parkinson-s-disease-analysis-portal?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/Gyanam09/multimodal-parkinson-s-disease-analysis-portal?style=for-the-badge&logo=github)
 
 ---
 
-## Skills & Tools  
-Python · TensorFlow · PyTorch · scikit-learn · pandas · NumPy · Jupyter · Git · Docker · REST APIs  
+### 💬 [Sentiment Analysis Model](https://github.com/Gyanam09/Sentiment-Analysis-Model) 
+NLP system for classifying text sentiment (positive, negative, neutral).  
+- Embeddings: Word2Vec, BERT  
+- Models: LSTM, Transformer  
+- Metrics: F1-score, Confusion Matrix  
 
 ---
 
-## 📫 Contact  
-- Email: gyanamjain@gmail.com  
-- LinkedIn: [linkedin.com/in/gyanam-jain-49a387250](https://www.linkedin.com/in/gyanam-jain-49a387250)  
-- GitHub: [github.com/Gyanam09](https://github.com/Gyanam09)  
+### 🔮 [Trop8](https://github.com/Gyanam09/Trop8)  
+Domain-specific Python project with modular design.  
+- Core logic & extensible features  
+- Practical use-cases / demos  
+
+![Stars](https://img.shields.io/github/stars/Gyanam09/Trop8?style=for-the-badge&logo=github)
+![Forks](https://img.shields.io/github/forks/Gyanam09/Trop8?style=for-the-badge&logo=github)
+
+---
+
+## ⚙️ Tech Stack  
+
+```text
+Languages:   Python · SQL · Bash
+Frameworks:  PyTorch · TensorFlow · scikit-learn
+Tools:       Git · Docker · GitHub Actions
+Data:        Pandas · NumPy
+Dev:         VS Code · Jupyter · Linux
