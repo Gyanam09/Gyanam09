@@ -1,7 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="./assets/banner-variant-2.svg" alt="Banner" width="100%" />
-</p>
 
 <h1 align="center">Hi 👋, I'm Gyanam Jain</h1>
 <h3 align="center">💻 Aspiring Software Developer | 🚀 AI/ML Enthusiast | 🌐 Web Developer</h3>
@@ -32,14 +28,14 @@
 
 ## 🚀 Highlight Projects
 <p align="center">
-  <a href="https://github.com/Gyanam09/Parkinson-Disease-Prediction">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=Parkinson-Disease-Prediction&theme=radical" />
+  <a href="https://github.com/Gyanam09/SQL_Gyanam">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=SQL_Gyanam&theme=radical" />
   </a>
-  <a href="https://github.com/Gyanam09/Sentiment-Analysis">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=Sentiment-Analysis&theme=radical" />
+  <a href="https://github.com/Gyanam09/react-nickify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=react-nickify&theme=radical" />
   </a>
-  <a href="https://github.com/Gyanam09/Portfolio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=Portfolio&theme=radical" />
+  <a href="https://github.com/Gyanam09/Resume">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gyanam09&repo=Resume&theme=radical" />
   </a>
 </p>
 
