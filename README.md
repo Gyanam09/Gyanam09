@@ -266,22 +266,6 @@ interests:
     - Clean Code principles
 ```
 
----
-
-## 🎯 Key Achievements
-
-<div align="center">
-
-| 🏆 Achievement | 📊 Impact |
-|:---|:---|
-| 💻 DSA Problems Solved | **300+** across LeetCode, CodeChef, Codeforces |
-| 🌟 Open Source | **Hacktoberfest 2025 Super Contributor** |
-| 🎯 ML Model Accuracy | **90% (CNN)** \| **87% (LSTM+SVM)** |
-| ⚡ Performance Optimization | **40% API latency reduction** |
-| 📈 Business Impact | **30% operational efficiency boost** |
-| 🎓 Academic Performance | **8.59/10.0 CGPA** |
-
-</div>
 
 ---
 
