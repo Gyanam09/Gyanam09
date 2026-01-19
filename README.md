@@ -17,8 +17,6 @@
   <img src="https://komarev.com/ghpvc/?username=Gyanam09&style=for-the-badge&color=6C63FF" />
 </p>
 
-**🎓 CSE @ VIT Bhopal University | CGPA: 8.59/10.0**  
-**📍 Bhopal, India | 💼 Open to opportunities**
 
 </div>
 
