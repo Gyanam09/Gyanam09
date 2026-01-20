@@ -270,6 +270,11 @@ interests:
 ## 📈 Contribution Activity
 
 <!--START_SECTION:activity-->
+1. ❌ Merged PR [#4](undefined) in [Balaji-Nirmit/Pegasus---A-market-researcher](https://github.com/Balaji-Nirmit/Pegasus---A-market-researcher)
+2. 💪 Opened PR [#4](undefined) in [Balaji-Nirmit/Pegasus---A-market-researcher](https://github.com/Balaji-Nirmit/Pegasus---A-market-researcher)
+3. 💪 Opened PR [#3](undefined) in [Balaji-Nirmit/Pegasus---A-market-researcher](https://github.com/Balaji-Nirmit/Pegasus---A-market-researcher)
+4. 💪 Opened PR [#2](undefined) in [Balaji-Nirmit/Pegasus---A-market-researcher](https://github.com/Balaji-Nirmit/Pegasus---A-market-researcher)
+5. ❌ Merged PR [#1](undefined) in [Balaji-Nirmit/Pegasus---A-market-researcher](https://github.com/Balaji-Nirmit/Pegasus---A-market-researcher)
 <!--END_SECTION:activity-->
 
 ---
