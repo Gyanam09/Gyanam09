@@ -1,10 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,27&text=Gyanam%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer%20•%20Problem%20Solver&descAlignY=60"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12,20,24,27&text=Gyanam%20Jain&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20•%20AI%20Engineer&descAlignY=60"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono\&size=28\&duration=3000\&pause=1000\&color=00F7FF\&center=true\&vCenter=true\&width=900\&lines=Building+Scalable+Applications;AI+%26+Machine+Learning+Enthusiast;300%2B+DSA+Problems+Solved;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Building+Scalable+Applications;AI+%26+Machine+Learning+Enthusiast;300%2B+DSA+Problems+Solved;Open+Source+Contributor;Always+Learning+Something+New)](https://git.io/typing-svg)
 
-<p align="center">
+<p>
 <a href="mailto:gyanamjain@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
@@ -43,7 +43,9 @@ AI-powered products and scalable applications
 Next.js • AWS • AI Agents • MLOps
 
 > fun_fact
-I write code in JavaScript, think in Python, and debug in C++.
+I write code in JavaScript,
+think in Python,
+and debug in C++.
 ```
 
 ---
@@ -60,13 +62,6 @@ I write code in JavaScript, think in Python, and debug in C++.
 
 # 📊 GitHub Statistics
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gyanam09&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gyanam09&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 <div align="center">
 
@@ -76,13 +71,36 @@ I write code in JavaScript, think in Python, and debug in C++.
 
 ---
 
-# 📈 Contribution Graph
+# 📈 Developer Dashboard
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Gyanam09/Gyanam09/main/github-metrics.svg"/>
+
+</div>
+
+---
+
+# 📉 Contribution Graph
 
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gyanam09&theme=tokyo-night&hide_border=true"/>
 
 </div>
+
+---
+
+# 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Gyanam09/Gyanam09/output/github-contribution-grid-snake-dark.svg">
+
+  <img
+    src="https://raw.githubusercontent.com/Gyanam09/Gyanam09/output/github-contribution-grid-snake.svg">
+</picture>
 
 ---
 
@@ -95,15 +113,15 @@ Building:
   - Scalable Backend Systems
 
 Learning:
-  - Advanced System Design
+  - System Design
   - Cloud Architecture
   - MLOps
   - AI Agents
 
 Goals:
   - 500+ DSA Problems
-  - More Open Source Contributions
   - Build and Ship Products
+  - Contribute More to Open Source
 ```
 
 ---
